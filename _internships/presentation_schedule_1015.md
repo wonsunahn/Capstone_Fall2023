@@ -10,8 +10,8 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 1 (Week of 1 SEP)
 
-* [Introduction to course requirements](/internships/pdfs/lecture-on-presentations-internship.pdf)
-* [Lecture on giving a good presentation](/internships/pdfs/lecture-on-presentations-internship.pdf)
+* [Introduction to course requirements]({{site.baseurl}}/internships/pdfs/lecture-on-presentations-internship.pdf)
+* [Lecture on giving a good presentation]({{site.baseurl}}/internships/pdfs/lecture-on-presentations-internship.pdf)
  
 
 ## WEEK 2 (Week of 8 SEP)
