@@ -67,8 +67,8 @@ the tight schedule.
 about.  Also, if you see your question already asked on Teams, just gives a
 thumbs up so that the presenter does not have to answer twice.  
 
-* Please review the [Lecture on Presentations](internships/pdfs/lecture-on-presentations-internship.pdf) and the [Lecture on
-  Assertion Evidence Format](internships/pdfs/lecture-on-assertion-evidence-format.pdf) before giving your presentation.  
+* Please review the [Lecture on Presentations]({{site.baseurl}}/internships/pdfs/lecture-on-presentations-internship.pdf) and the [Lecture on
+  Assertion Evidence Format]({{site.baseurl}}/internships/pdfs/lecture-on-assertion-evidence-format.pdf) before giving your presentation.  
 
 * Presenters must submit their presentation slides to the "Presentation Slides"
   assignment on Canvas the day before, by **Thursday 9:00 PM**.  The slides
