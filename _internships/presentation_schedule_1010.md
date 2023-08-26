@@ -16,7 +16,7 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 2 (Week of 8 SEP)
 
-* [Lecture on assertion evidence format](/internships/pdfs/lecture-on-assertion-evidence-format.pdf)
+* [Lecture on assertion evidence format]({{site.baseurl}}/internships/pdfs/lecture-on-assertion-evidence-format.pdf)
 
 ## WEEK 3 (Week of 15 SEP)
   
