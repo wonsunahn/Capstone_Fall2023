@@ -48,10 +48,24 @@ failure.
 * There will be typically 5 students presenting each day.  That means 50 / 5 =
   10 minutes per student.  Those 10 minutes is going to be broken down as
 follows:
-  * **10 - 15 minutes** Presentation talk and **10 minutes** Q & A
-    * Speaker: Presents slides pre-uploaded to TopHat using instructor's laptop.  Please keep your own time with your cell phone.  
+  * **8 minutes**: Presentation talk
+    * Speaker: Presents slides pre-uploaded to TopHat using instructor's
+      laptop.
+    * Audience: (If any) ask questions on Microsoft Teams.
+  * **2 minutes**: Intermission
+    * Current speaker: Returns to seat then starts answering questions on
+      Microsoft Teams.  If you don't finish, make sure you finish by the end of
+the day please.
+    * Next speaker: Immediately steps up to podium and starts preparing.
     * Audience: Takes notes for [peer reviews](#peer-review-organization).
-      Peer reviews are due midnight on TopHat.
+      Peer reviews are due midnight on TopHat on the day of the talk.
+  * Speakers: Please keep your own time with your cell phone.  Please
+    understand that I have to cut you off at 9 minutes with no warning due to
+the tight schedule.
+  * Audience: Asking questions is optional (unlike peer reviews which are
+    mandatory).  Please only ask questions that you are genuinely curious
+about.  Also, if you see your question already asked on Teams, just gives a
+thumbs up so that the presenter does not have to answer twice.  
 
 * Please review the [Lecture on Presentations](internships/pdfs/lecture-on-presentations-internship.pdf) and the [Lecture on
   Assertion Evidence Format](internships/pdfs/lecture-on-assertion-evidence-format.pdf) before giving your presentation.  
