@@ -51,11 +51,10 @@ follows:
   * **8 minutes**: Presentation talk
     * Speaker: Presents slides pre-uploaded to TopHat using instructor's
       laptop.
-    * Audience: (If any) ask questions on Microsoft Teams.
+    * Audience: (If any) ask questions on Canvas Discussions.  Please make sure you start the question with the name of the speaker, so the speaker knows that the question is addressed to him/her/them.
   * **2 minutes**: Intermission
     * Current speaker: Returns to seat then starts answering questions on
-      Microsoft Teams.  If you don't finish, make sure you finish by the end of
-the day please.
+      Canvas Discussions.  Please answer all questions that come up during the day.
     * Next speaker: Immediately steps up to podium and starts preparing.
     * Audience: Takes notes for [peer reviews](#peer-review-organization).
       Peer reviews are due midnight on TopHat on the day of the talk.
