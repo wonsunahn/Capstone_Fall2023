@@ -94,7 +94,7 @@ Students also have the unique opportunity to collaborate on a project with the F
 ### Measuring performance losses of a userspace traffic controller
 In this project we will be implementing a non-workconserving network-traffic scheduler in the Linux kernel and measure its performance when compared to a user-space implementation.
 
-You'll need to learn about eBPF (extended Berkley Packet Filters) [Timming? What's timming?](https://www.youtube.com/watch?v=J_EehoXLbIU), and how to use them to instrument the execution of the code. Then, you'll run experiments to measure the impact on communitacition latency and bandwidth.
+You'll need to learn about eBPF (extended Berkley Packet Filters) [Timing? What's timing?](https://www.youtube.com/watch?v=J_EehoXLbIU), and how to use them to instrument the execution of the code. Then, you'll run experiments to measure the impact on communitacition latency and bandwidth.
 
 Then, we'll look into netlink sockets (a mechanism to communicate with a kernel space program) to reconfigure the scheduler. If there is time, we will use this to implment a traffic scheduler.
 - Skills:
