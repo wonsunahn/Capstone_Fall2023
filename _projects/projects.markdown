@@ -139,6 +139,25 @@ Once we are able to use the devices, we will build a simple application that can
 
 # Other units projects
 
+## UMS - Visual Novel Game
+
+**Requires signing an NDA/IP release**
+
+This is a game development project that will pick up an already existant codebase and further develop it.
+
+Desired Features:
+- Biggest Feature: Ability to parse in written scripts that is interpreted into content (see below)
+- Start Screen with Menu Options New Game, Load Data, Options, Extra, and Exit
+- Phone Feature: Check document
+- Unique Backlog Feature
+- Staple VN Features
+
+**Check Canvas for details**
+
+* Team Size: 3/4 students
+* POC: Justin Bortnick (jabortnick@pitt.edu)
+
+
 ## Dashboard to manage the Involvement and Student Unions units
 The department of Involvement and Student Unions is a newly imagined area within Student Affairs. It has taken the place of what was Student Life. This departments mission is to Magnify mattering through Place, Space & Activities. Unlike most departments within Student Affairs, this area is composed a of a number different units, The Student Unions, The Pitt Program Council, PITT ARTS, Technical Services, and the Student Organizations Resource Center (SORC). Each of these areas have distinct deliverables, cultures, and financial systems with staff members with varying degrees of financial knowledge.
 
