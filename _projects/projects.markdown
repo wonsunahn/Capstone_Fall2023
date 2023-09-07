@@ -81,12 +81,30 @@ Students also have the unique opportunity to collaborate on a project with the F
 
 
 ## Virtual dashboard to manage SCI rooms and inventory
+This project will aim at creating a new equipment inventory management/loaner management page for SCI.
+Current system is OLD and not great! For example, it can only be used for Sennott. And we want to replace it with one that expands its functionality and embraces whole SCI
 
-* Team Size: 2/3 students each project
+It will include:
+    - a per room equipment management view,
+    - graphic representation of network ports, and equipment location
+
+* Team Size: 2/3 students
+* POC: Matheus Barbosa (matheus.lb@gmail.com)
 
 ## Virtual Billboards for the CS department
 
-* Team Size: 2/3 students each project
+This project wants to create a webpage to expand the current ‘What do you want’ lists on our murals.
+Including SCI Ideas/projects/suggestions/wiki page
+
+Its users (Students, staff, and faculty) can submit ideas for projects improvements. Then a curator role would moderate suggestions (just to avoid trash and abuse!) and make them public.
+
+Ideas/projects can be rated, up-voted (so SCI and departments can prioritize implementation when viable).
+And once the projects are selected for implementation, SCI community can track their status.
+
+Posters need to be created to advertise the page.
+
+* Team Size: 2/3 students
+* POC: Matheus Barbosa (matheus.lb@gmail.com)
 
 
 ## Luis Oliveira projects - ONLY 2 out of these 3!
