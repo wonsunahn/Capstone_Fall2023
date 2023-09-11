@@ -138,7 +138,7 @@ Then, we'll look into netlink sockets (a mechanism to communicate with a kernel 
 * Team Size: 2/3 students
 * POC: Luís Oliveira (loliveira@pitt.edu)
 
-### Create an Android ROS2-based controller to interface with a robot
+### RF-based ranging - Running Round-Trip Time-of-flight for locatization
 I have [these boards](https://www.qorvo.com/products/p/DWM3001CDK). They are development kit that are equipped with hardware that can measure distance based on the time wireless signals take to travel between 2 devices.
 
 In this project, you will be tasked to learn how to use them! :)
