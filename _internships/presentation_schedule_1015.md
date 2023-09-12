@@ -20,7 +20,11 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 3 (Week of 15 SEP)
   
-* Student presentations (TBD)
+* Allison Briggs
+* Ben Solomon
+* Michael Henry
+* Declan Kutscher
+* Alon Leshem
 
 ## WEEK 4 (Week of 22 SEP)
 
