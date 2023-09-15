@@ -24,9 +24,8 @@ The presentations will be given in the order they are listed on the particular d
 * Kenny Zhang
 * Riley Bode
 * Renhan Xu
-* Harry
+* Harry Schlechter
   
-
 ## WEEK 4 (Week of 22 SEP)
 
 * Ben Zarom
