@@ -20,15 +20,28 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 3 (Week of 15 SEP)
   
-* Student presentations (TBD)
+* Maanya Shanker
+* Kenny Zhang
+* Riley Bode
+* Renhan Xu
+* Harry
+  
 
 ## WEEK 4 (Week of 22 SEP)
 
-* Student presentations (TBD)
+* Ben Zarom
+* Dylan Feehan
+* Max Quinn
+* Imran Haidery
+* Slutsky, Lynn H
 
 ## WEEK 5 (Week of 29 SEP)
 
-* Student presentations (TBD)
+* Emily Kyle
+* Gray Cleric
+* Rainier Acierto
+* Benjamin Margolis
+* Stephen Randall
 
 ## WEEK 6 (Week of 6 OCT)
 
@@ -36,27 +49,52 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 7 (Week of 13 OCT)
 
-* Student presentations (TBD)
+* Pratham Patel
+* Daisy Chen
+* Rakan Al-Radady
+* Josh Horan
+* Matthew Beller
 
 ## WEEK 8 (Week of 20 OCT)
 
-* Student presentations (TBD)
+* Nathan Barta
+* Paolo Hidalgo
+* Hayden Terek
+* Vansh Desai
+* Jake Hill
 
 ## WEEK 9 (Week of 27 OCT)
 
-* Student presentations (TBD)
+* Kareem Mohsen
+* Justin Holt
+* Ayden Kauffman
+* Jonathan Riklan
+* Owen Wurst
+  
 
 ## WEEK 10 (Week of 3 NOV)
 
-* Student presentations (TBD)
+* Luke Williams
+* Diego Jurado
+* Jeffrey Zheng
+* Ashlyn Geevarghese
+* Ian Murday
 
 ## WEEK 11 (Week of 10 NOV)
 
-* Student presentations (TBD)
+* Margaret Kriz
+* Alisa Zhang
+* Julianne Kruse
+* Jamir Grier
+* Nij Patel
 
 ## WEEK 12 (Week of 17 NOV)
 
-* Student presentations (TBD)
+* Paul Ringenbach
+* Rafael Hollero
+* Julian Alamo-Rosas
+* Derrick Hicks
+* 
 
 ## WEEK 13 (Week of 24 NOV)
 
@@ -64,10 +102,18 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 14 (Week of 1 DEC)
 
-* Student presentations (TBD)
+* Jin Chul Cha
+* Bruce Weis
+* Ann Wang
+* Panagiotis Moisiadis
+* Laying Qin
 
 ## WEEK 15 (Week of 8 DEC)
 
-* Student presentations (TBD)
+* Isaac Bredbenner
+* Peyman Abbasian
+* Ziyu Xia
+* Emily Wick
+* Alexander Witkowski
 
 * Best Capstone Speaker awards
