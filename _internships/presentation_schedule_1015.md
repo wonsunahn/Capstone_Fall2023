@@ -30,7 +30,7 @@ The presentations will be given in the order they are listed on the particular d
 
 * Griffin Hurt
 * Nikhita Vysyaraju
-* Camille Larson
+* Jay Johnson
 * Ian Yencha
 * Stella Bailey
 
@@ -92,7 +92,7 @@ The presentations will be given in the order they are listed on the particular d
 * Will Shuttleworth
 * Harshini Bandaru
 * Steven Yang
-* Jay Johnson
+* Camille Larson
 
 ## WEEK 13 (Week of 24 NOV)
 
