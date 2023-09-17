@@ -93,7 +93,7 @@ The presentations will be given in the order they are listed on the particular d
 * Rafael Hollero
 * Julian Alamo-Rosas
 * Derrick Hicks
-* 
+* Friedrich Doku
 
 ## WEEK 13 (Week of 24 NOV)
 
