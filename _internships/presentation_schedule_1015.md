@@ -20,15 +20,27 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 3 (Week of 15 SEP)
   
-* Student presentations (TBD)
+* Allison Briggs
+* Ben Solomon
+* Michael Henry
+* Declan Kutscher
+* Alon Leshem
 
 ## WEEK 4 (Week of 22 SEP)
 
-* Student presentations (TBD)
+* Griffin Hurt
+* Nikhita Vysyaraju
+* Jay Johnson
+* Ian Yencha
+* Stella Bailey
 
 ## WEEK 5 (Week of 29 SEP)
 
-* Student presentations (TBD)
+* Steven Jarmell
+* Ben Adams
+* Nick Usme
+* Matthew Mell
+* Aakash Arvapalli
 
 ## WEEK 6 (Week of 6 OCT)
 
@@ -36,27 +48,51 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 7 (Week of 13 OCT)
 
-* Student presentations (TBD)
+* Alexis DiNardo
+* Suchi Attota
+* Michael Cox
+* Luke Gabel
+* Cole Eichner
 
 ## WEEK 8 (Week of 20 OCT)
 
-* Student presentations (TBD)
+* Christopher Abboud
+* Gabriel Badillo
+* Thomas Halsey
+* Elizabeth Taylor
+* Alex Wang
 
 ## WEEK 9 (Week of 27 OCT)
 
-* Student presentations (TBD)
+* Kabi Balasubramani
+* Jonah Osband
+* Ayaan Siddiqui
+* Erasto Omolo
+* Ethan Rubenstein
 
 ## WEEK 10 (Week of 3 NOV)
 
-* Student presentations (TBD)
+* Mitch Radvansky
+* Billy Chapler
+* Matthew Harvey
+* Shreya Agrawal
+* Brian Lucas
 
 ## WEEK 11 (Week of 10 NOV)
 
-* Student presentations (TBD)
+* Tom Bartie
+* Gabriel Lulu
+* Samuel Durigon
+* Jiang Bian
+* Ailee Cash
 
 ## WEEK 12 (Week of 17 NOV)
 
-* Student presentations (TBD)
+* Misha Kharkovski
+* Will Shuttleworth
+* Harshini Bandaru
+* Steven Yang
+* Camille Larson
 
 ## WEEK 13 (Week of 24 NOV)
 
@@ -64,10 +100,17 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 14 (Week of 1 DEC)
 
-* Student presentations (TBD)
+* Andre Nguyen
+* Jacob Kopco
+* Aidan Reilly
+* Ruoheng Xu
+* Pujal Gandhi
 
 ## WEEK 15 (Week of 8 DEC)
 
-* Student presentations (TBD)
+* Zi Han Ding
+* Ian Whitfield
+* Crystal Li
+* Anna Baskin
 
-* Best Capstone Speaker awards
+**[[[ Best Capstone Speaker awards ]]]**

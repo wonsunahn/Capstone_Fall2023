@@ -138,7 +138,7 @@ Then, we'll look into netlink sockets (a mechanism to communicate with a kernel 
 * Team Size: 2/3 students
 * POC: Luís Oliveira (loliveira@pitt.edu)
 
-### Create an Android ROS2-based controller to interface with a robot
+### RF-based ranging - Running Round-Trip Time-of-flight for locatization
 I have [these boards](https://www.qorvo.com/products/p/DWM3001CDK). They are development kit that are equipped with hardware that can measure distance based on the time wireless signals take to travel between 2 devices.
 
 In this project, you will be tasked to learn how to use them! :)
@@ -184,7 +184,31 @@ The challenge is multileveled. The first is to understand the financial spending
 * Team Size: 3/4 students
 * POC: DaVaughn Vincent-Bryan (davaughn.vincentbryan@pitt.edu)
 
-## Nicolás Kass
+## AI for Surgical Research
+
+Project Background
+
+The University of Pittsburgh produces some of the highest quantity and quality surgical research in the country, if not world. Although many breakthroughs come from basic/translational research, clinical research primarily drives our fields forward at a steady pace. This type of research can be anything from retrospective studies based on prior patients’ charts (colloquially named “chart reviews”) to systematic reviews to generate best-practices to randomized control trials for novel treatments or techniques. However, there is an incredible amount of tedium that is involved in generating each research project.
+
+AI poses the possibility to reduce that tedium, as well as increase efficiency, and produce more and higher-quality research. Given the ease of using and developing upon available generate AI APIs, we are interested in creating tools to improve our research.
+
+Project Summary In this project, students will work on developing and testing one or multiple tools to further the research capabilities of multiple surgical departments, Neurosurgery, Craniofacial and Pediatric Plastic Surgery, Orthopedic Surgery to start with. Our desired tools include developing an app to create outlines and comprehensive literature “pulls” for systematic review generation, an app that allows for training a model based on a user’s previous writing in order to have “personalized” editing and writing suggestions, and an app that generates high-quality medical images that can be used in publications. There are additional similar projects if there is time or a desire for future work. IP and NDA agreements will be discussed.
+
+Project Goals
+
+  - Evaluate most useful publicly available LLM for our purposes
+
+  - Develop desktop or web apps as above
+
+  - Stretch goal – bring the multiple apps above into one multi-functional app that can allow for further functionality to be built on top in future iterations
+
+Team
+
+  - 2-4 students
+
+  - Nicolás Kass, Craniofacial and Pediatric Plastic Surgery Research Fellow and Co-Director of Medical Research, Surreality Lab (Primary)
+
+  -  Dr. Ted Andrews, Assistant Professor of Neurosurgery, Founder and Director of Surreality Lab (secondary)
 
 <!-- 30-43 -->
 
