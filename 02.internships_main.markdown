@@ -12,7 +12,9 @@ will receive the [Best Capstone Speaker Award](#peer-review-organization).
 
 |         | Content | Organization | Delivery | Overall |
 |---------|---------|--------------|----------|---------|
-| Average | 0 | 0 | 0 | 0 |
+|  | 4.3125 | 4.5625 | 4.375 | 4.416666667 |
+|  | 4.14893617 | 4.234042553 | 4.021276596 | 4.134751773 |
+| Average | 4.230718085 | 4.398271277 | 4.198138298 | 4.27570922 |
 
 
 ## Your responsibilities
