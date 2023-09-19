@@ -105,7 +105,8 @@ The presentations will be given in the order they are listed on the particular d
 * Bruce Weis
 * Ann Wang
 * Panagiotis Moisiadis
-* Laying Qin
+* Liying Qin
+* Winston Osei-Bonsu
 
 ## WEEK 15 (Week of 8 DEC)
 
