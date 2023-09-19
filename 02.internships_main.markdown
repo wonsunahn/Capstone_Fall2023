@@ -10,6 +10,10 @@ This table will be populated with (anonymous) peer review scores for each
 presentation, on each week when there is a presentation.  The top scorer
 will receive the [Best Capstone Speaker Award](#peer-review-organization).
 
+|         | Content | Organization | Delivery | Overall |
+|---------|---------|--------------|----------|---------|
+| Average | 0 | 0 | 0 | 0 |
+
 
 ## Your responsibilities
 
