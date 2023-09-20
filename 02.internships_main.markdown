@@ -10,6 +10,19 @@ This table will be populated with (anonymous) peer review scores for each
 presentation, on each week when there is a presentation.  The top scorer
 will receive the [Best Capstone Speaker Award](#peer-review-organization).
 
+### 1010
+
+|         | Content | Organization | Delivery | Overall |
+|---------|---------|--------------|----------|---------|
+|  | 3.94 | 3.84 | 3.36 | 3.713333333 |
+|  | 4.163265306 | 3.857142857 | 3.87755102 | 3.965986395 |
+|  | 4.018867925 | 4.188679245 | 4.641509434 | 4.283018868 |
+|  | 4.384615385 | 4.365384615 | 4.25 | 4.333333333 |
+|  | 4.37254902 | 4.333333333 | 4.529411765 | 4.411764706 |
+| Average | 4.175859527 | 4.11690801 | 4.131694444 | 4.141487327 |
+
+### 1015
+
 |         | Content | Organization | Delivery | Overall |
 |---------|---------|--------------|----------|---------|
 |  | 3.395833333 | 3.3125 | 3.229166667 | 3.3125 |
