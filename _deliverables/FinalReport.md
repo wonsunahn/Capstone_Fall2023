@@ -16,7 +16,7 @@ Please ensure that your name as well as the name of the company / lab you worked
 
 If you want a template, here is one you are free to use: https://etd.pitt.edu/learn-template
 
-There are example Word and Latex templates on that page.  Now you are not writing a thesis so you don't need any of the front matter.  You can choose to have a title page and a table of contents (and you are encouraged to do so), but it is not going to count towards the number of pages.  The title page can have the header information aforementioned.  Of course, you will not have the same sections and subsections.  Examples of paper organizations are given below.
+There are example Word and Latex templates on that page.  Now you are not writing a thesis so you don't need most of the front matter.  You can choose to have a title page and a table of contents (and you are encouraged to do so), but it is not going to count towards the number of pages.  The title page can have the header information aforementioned.  Of course, you will not have the same sections and subsections.  Examples of paper organizations are given below.
 
 ## DETAILS
 
