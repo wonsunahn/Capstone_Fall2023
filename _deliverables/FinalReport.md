@@ -12,7 +12,11 @@ This final paper is required for all students in the Capstone, including interns
 
 The paper must be 8 - 12 pages in length, double-spaced, using a relatively standard font and point size (e.g., 12-point Times New Roman or Computer Modern).  Judicious use of charts, graphs, and/or illustrations is acceptable.  Margins should be of standard size.
 
-Please ensure that your name as well as the name of the project you worked on is listed, along with your faculty advisor (whoever signed your Faculty Learning Agreement, or your research advisor).
+Please ensure that your name as well as the name of the company / lab you worked on is at the header, along with your faculty sponsor (whoever signed your Faculty Learning Agreement) for CS 1900 students or your research PI for CS 1950 students.
+
+If you want a template, here is one you are free to use: https://etd.pitt.edu/learn-template
+
+There are example Word and Latex templates on that page.  Now you are not writing a thesis so you don't need any of the front matter.  You can start from the introduction after having added the aforementioned header information.  You can choose to add a table of contents, but it is not going to be counted towards the number of pages.  Of course, you will not have the same sections and subsections.  Examples of paper organizations are given below.
 
 ## DETAILS
 
