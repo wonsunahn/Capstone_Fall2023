@@ -12,8 +12,8 @@ will receive the [Best Capstone Speaker Award](#peer-review-organization).
 
 
 
-|         | Content | Organization | Delivery | Overall |
-|---------|---------|--------------|----------|---------|
+| Content | Organization | Delivery | Overall |
+|---------|--------------|----------|---------|
 | 3.395833333 | 3.3125 | 3.229166667 | 3.3125 |
 | 3.94 | 3.84 | 3.36 | 3.713333333 |
 | 4 | 4.192307692 | 3.471698113 | 3.888001935 |
