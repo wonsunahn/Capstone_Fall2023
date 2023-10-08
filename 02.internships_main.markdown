@@ -3,6 +3,7 @@ layout: page
 title: CS1900/1950
 permalink: /CS1900_1950/
 ---
+## Table of Contents
 
 - [Presentation Score Leader Board](#presentation-score-leader-board)
 - [Your responsibilities](#your-responsibilities)
