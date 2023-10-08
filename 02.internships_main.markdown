@@ -4,6 +4,15 @@ title: CS1900/1950
 permalink: /CS1900_1950/
 ---
 
+- [Presentation Score Leader Board](#presentation-score-leader-board)
+- [Your responsibilities](#your-responsibilities)
+- [Attendance](#attendance)
+- [Presentation organization](#presentation-organization)
+- [Final paper organization](#final-paper-organization)
+- [Peer review organization](#peer-review-organization)
+- [Progress report organization](#progress-report-organization)
+- [Important Links](#important-links)
+
 ## Presentation Score Leader Board
 
 This table will be populated with (anonymous) peer review scores for each
