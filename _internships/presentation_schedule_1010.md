@@ -101,7 +101,6 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 14 (Week of 1 DEC)
 
-* Jin Chul Cha
 * Bruce Weis
 * Ann Wang
 * Panagiotis Moisiadis
@@ -111,7 +110,7 @@ The presentations will be given in the order they are listed on the particular d
 ## WEEK 15 (Week of 8 DEC)
 
 * Isaac Bredbenner
-* Peyman Abbasian
+* Jin Chul Cha
 * Ziyu Xia
 * Emily Wick
 * Alexander Witkowski
