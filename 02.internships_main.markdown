@@ -24,7 +24,6 @@ will receive the [Best Capstone Speaker Award](#peer-review-organization).
 
 | Name | Content | Organization | Delivery | Overall |
 |---------|---------|--------------|----------|---------|
-| Name | Content | Organization | Delivery | Overall |
 | Winston Osei-Bonsu | 4.58 | 4.612244898 | 4.734693878 | 4.642312925 |
 | Griffin Hurt | 4.770833333 | 4.375 | 4.729166667 | 4.625 |
 | Steven Jarmell | 4.586956522 | 4.47826087 | 4.586956522 | 4.550724638 |
